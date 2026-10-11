@@ -1,0 +1,5 @@
+.env
+ledger.json
+*.csv
+__pycache__/
+.venv/
